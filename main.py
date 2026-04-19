@@ -1,0 +1,1 @@
+print("Xin chap tu from main.py")
